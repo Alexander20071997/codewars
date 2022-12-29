@@ -1,0 +1,1 @@
+let wrap = v => { return { value: v }}
